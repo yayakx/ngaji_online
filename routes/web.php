@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('head');
 });
 
+Route::get('/welcome', 'quran@index');
 Route::get('quran', 'quran@index');
 Route::get('wahyu', 'quran@turun');
 Route::get('ayat', 'quran@ayat');
