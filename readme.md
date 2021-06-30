@@ -9,17 +9,13 @@
 
 ## About 
 
-Aplikasi ngaji_online adalah sebuah aplikasi berbasis web dibuat menggunakan laravel 5 dan bootstrap yang menyajikan sistem alquran digital lengkap dengan audio dan terjemahannya. Adapun fitur yang ada adalah: 
+Aplikasi ngaji_online adalah sebuah aplikasi berbasis web dibuat menggunakan laravel 5 dan bootstrap yang menyajikan sistem alquran digital lengkap dengan terjemahannya. Adapun fitur yang ada adalah: 
 
 User :
 - Lihat Artikel
 - Lihat Alquran
 - Pencarian surah atau ayat
-- Audio Quran
 
-Admin 
-- Data Artikel (Tambah, Edit, Hapus)
-- Data User (Tambah, Edit, Hapus)
 
 ## Instalasi
 - Clone / Download ZIP
