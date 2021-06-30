@@ -21,6 +21,14 @@ Admin
 - Data Artikel (Tambah, Edit, Hapus)
 - Data User (Tambah, Edit, Hapus)
 
+## Instalasi
+- Clone / Download ZIP
+- Jalankan 'composer install'
+- Buat database, import laravel_quran.sql
+- Rename file .env.example ke .env
+- Atur .env
+- Jalankan 'php artisan serve'
+
 
 ## License
 
